@@ -3,7 +3,7 @@ charge=0
 if units<=50:
     charge=units*5
 elif units<=150:
-    charge=250+(units-50)*7
+    charge=250+(units-50)*6
 
 else:
     charge=250+700+(units-150)*10
