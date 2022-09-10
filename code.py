@@ -1,3 +1,4 @@
+# Electricity bill calculation
 units=int(input())
 charge=0
 if units<=50:
